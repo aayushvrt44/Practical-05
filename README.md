@@ -1,5 +1,5 @@
 # Practical-05
-This repo consists the two tasks of object oriented programming with C++ .The tasks are follows under.
+This repo consists of two tasks of object oriented programming with C++ .The tasks are follows under.
 
 Primary Data Types related questions in C++:
 
